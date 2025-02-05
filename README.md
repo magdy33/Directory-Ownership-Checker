@@ -48,7 +48,7 @@ fi
 
 ## Author & Maintenance
 - **Author:** Magdi_
-- **Last Modified:** *[Add date]*
+
 - **License:** Open-source, modify as needed.
 
 ## Potential Enhancements
@@ -56,6 +56,5 @@ fi
 - Include an option to automatically delete orphaned directories (use with caution).
 - Enhance error handling in case of permission issues.
 
----
-🚀 *Happy Scripting!*
+
 
